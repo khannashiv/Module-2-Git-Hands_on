@@ -1,3 +1,7 @@
 Working on Code.
+<<<<<<< HEAD
 This is feaure 1 .
+
+=======
 This is feature 2 .
+>>>>>>> f2
